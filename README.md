@@ -25,7 +25,7 @@ Howdy, I'm Andrew. I'm a graduate of Utah State University with a BS in Computer
 
 <span><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aeromus&theme=nord" alt="Andrew's Stats"/></span>
 
-<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeromus&hide=roff&theme=nord" alt="Andrew's Languages"/></span>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeromus&hide=roff&theme=nord&langs_count=8" alt="Andrew's Languages"/></span>
 
 ## Projects
 <details>
