@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ---
 ## About Me
 
-Howdy, I'm Andrew. I'm a graduate of Utah State University with a BS in Computer Science. While at USU I worked extensivly for [AggieAir](https://uwrl.usu.edu/aggieair/) writting ground support software, working with linux machines, and participating in field ops. I am also a co-founder of USU's Free Software and Linux Club. I have a love of cybersecuirty and have attened both DEFCON and Blackhat with hopes to one day have a job in pentesting. When my head is not stuck in a terminal you can find me playing boardgames with friends or practicing Archery and Rifle. 
+Howdy, I'm Andrew. I'm a graduate of Utah State University with a BS in Computer Science. While at USU I worked extensively  for [AggieAir](https://uwrl.usu.edu/aggieair/) writing  ground support software, working with linux machines, and participating in field ops. I am also a co-founder of USU's Free Software and Linux Club. I have a love of cybersecurity  and have attended  both DEFCON and Blackhat with hopes to one day have a job in pentesting. When my head is not stuck in a terminal you can find me playing board games with friends or practicing Archery and Rifle. 
 
 ## Stats
 
@@ -29,7 +29,7 @@ Howdy, I'm Andrew. I'm a graduate of Utah State University with a BS in Computer
 
 ## Projects
 <details>
-  <suummary> Some of my projects</summary>
+  <summary> Some of my projects</summary>
   
 ### [GunBrokerBot](https://github.com/Aeromus/GunbrokerBot/tree/dev)
 ![Java](https://img.shields.io/badge/-Java-b07219?style=for-the-badge&logo=java&logoColor=ffffff)
@@ -40,7 +40,7 @@ The GunBrokerBot was a Java project born due to the 2020 ammo shortage. The bot 
 ### [MPI Password Cracker](https://github.com/Aeromus/MPIPasswordCracker)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=ffffff)
 
-As it says on a the tin, this was a password cracker using the MPI multiprocessing libary. The project was a collaberation between me and a classmate. The project is currently configured to crack passwords encoded in MD5 by attempting to hash every possible string until it comes across a match. Its not the most eligant method but the brute force approach shows off how multiprocessing can be used to decrease compute time.
+As it says on the tin, this was a password cracker using the MPI multiprocessing library. The project was a collaboration  between me and a classmate. The project is currently configured to crack passwords encoded in MD5 by attempting to hash every possible string until it comes across a match. It's not the most elegant  method but the brute force approach shows off how multiprocessing can be used to decrease compute time.
 </details>
   
 ## What I use
